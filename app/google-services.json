@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41457687581",
+    "project_id": "feelsafe-57a49",
+    "storage_bucket": "feelsafe-57a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41457687581:android:114bb0c5f894cfbd4f3af4",
+        "android_client_info": {
+          "package_name": "com.example.feelsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41457687581-vf6nau0u5rr58fda5462j4gfo293mg8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feelsafe",
+            "certificate_hash": "028b8be160e44a071462d8101ec21d3b1559ab01"
+          }
+        },
+        {
+          "client_id": "41457687581-aqgvh9dv9omqqk6piiklh9fmk9sa63fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQCd5odWmNnOpkRI0W0jYTcrjtUy6od0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41457687581-aqgvh9dv9omqqk6piiklh9fmk9sa63fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

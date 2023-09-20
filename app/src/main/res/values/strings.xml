@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FeelSafe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_web_client_id">333484056423-uq3o67nq06h13bdegq91pqjvt8bpvgh1.apps.googleusercontent.com</string>
+    <string name="continue_with_google" />
+    <string name="default_web_client_id_auth">115675884516-pjk3t6sm3ga0i8rfqqfk5i0gio941jkg.apps.googleusercontent.com</string>
+</resources>
